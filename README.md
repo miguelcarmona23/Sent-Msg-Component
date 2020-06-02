@@ -7,5 +7,7 @@ This is a Sent Message Component that is built with HTML, CSS, and Javascript.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript(Vue)](https://vuejs.org/)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [GSAP](https://greensock.com/gsap/)
+
 
